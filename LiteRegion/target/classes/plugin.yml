@@ -1,0 +1,5 @@
+name: LiteRegion
+version: '1.0'
+main: me.KyotoDev.liteRegion.Main
+api-version: '1.20'
+authors: [ Kyoto ]
